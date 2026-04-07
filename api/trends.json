@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T04:52:58.769883+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-04-08T05:44:32.037279+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时44分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时44分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时44分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -48,7 +48,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
