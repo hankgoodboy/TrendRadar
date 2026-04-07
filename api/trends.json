@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T06:41:43.376867+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-04-08T07:41:00.897021+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "大魔王迎战硬刚马斯克AI",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时41分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -39,8 +39,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 06时41分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时41分]"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 07时41分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         }
       ]
     }
