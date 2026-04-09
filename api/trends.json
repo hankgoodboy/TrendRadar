@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T21:48:32.659657+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-04-09T23:47:53.874896+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -18,11 +18,12 @@
             13,
             16,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时07分 ~ 21时48分]"
+          "appearance_count": 18,
+          "time_info": "[01时07分 ~ 23时47分]"
         },
         {
           "title": "曝ChatGPT6本月发布",
@@ -57,11 +58,12 @@
             14,
             12,
             11,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时13分 ~ 21时48分]"
+          "appearance_count": 7,
+          "time_info": "[13时13分 ~ 23时47分]"
         },
         {
           "title": "高盛资产管理：AI投资热持续 应布局半导体和相关“铲与镐”股",
@@ -146,6 +148,18 @@
           "time_info": "[05时04分 ~ 05时56分]"
         },
         {
+          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
+          "url": "https://www.cls.cn/detail/2339282",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时47分]"
+        },
+        {
           "title": "周三（4月8日），存储芯片与硬件供应链指数涨8.08%，报125.83点，跳空高开、迅速刷新日高至127.77点，美股开盘后90分钟内呈现出冲高回落走势。 信息科技指数涨4.61%，人工智能（AI）赢家指数涨4.96%；AI软件先驱指数跌1.04%。",
           "url": "https://wallstreetcn.com/livenews/3084589",
           "source": "华尔街见闻-快讯",
@@ -181,6 +195,42 @@
           "time_info": "[05时56分 ~ 06时43分]"
         },
         {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时47分]"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时47分]"
+        },
+        {
+          "title": "Wait清唱挑战",
+          "url": "https://www.douyin.com/hot/2460968",
+          "source": "抖音",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 23时47分]"
+        },
+        {
           "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
           "url": "https://wallstreetcn.com/livenews/3084479",
           "source": "华尔街见闻-快讯",
@@ -209,7 +259,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -253,7 +303,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -280,17 +330,6 @@
           "time_info": "19时03分"
         },
         {
-          "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
-          "url": "https://www.cls.cn/detail/2339282",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "深成指、创业板指均跌超1%，沪指跌0.77%，贵金属、光伏设备、民航机场、AI应用等方向跌幅居前，沪深京三市下跌个股超4200只。",
           "url": "https://wallstreetcn.com/livenews/3084698",
           "source": "华尔街见闻-快讯",
@@ -308,7 +347,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -319,7 +358,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时48分"
         },
@@ -335,17 +374,6 @@
           "time_info": "06时43分"
         },
         {
-          "title": "AI红利和普通人有何关系",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        },
-        {
           "title": "港股AI应用板块走强，智谱(02513.HK)涨超5%，速腾聚创(02498.HK)涨近5%，MINIMAX-W(00100.HK)、佑驾创新(02431.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260409095153528800",
           "source": "金十数据",
@@ -357,15 +385,15 @@
           "time_info": "10时35分"
         },
         {
-          "title": "Wait清唱挑战",
-          "url": "https://www.douyin.com/hot/2460968",
-          "source": "抖音",
+          "title": "IMF总裁：IMF分析显示，AI可能会帮助生产力提高至多0.8%，但也可能会在发达经济体殃及60%的就业岗位。",
+          "url": "https://wallstreetcn.com/livenews/3085187",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "23时47分"
         },
         {
           "title": "腾讯云发布AI算力、容器服务、EMR相关产品价格调整公告",
@@ -377,17 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        },
-        {
-          "title": "玩具也要闯闯AI赛道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时48分"
         }
       ]
     }
