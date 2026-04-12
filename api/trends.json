@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T16:54:14.876100+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-04-12T17:50:43.419790+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时41分 ~ 17时50分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -60,8 +60,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时41分 ~ 16时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时41分 ~ 17时50分]"
         },
         {
           "title": "我也来试一下这个wait",
@@ -92,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时50分 ~ 17时50分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
@@ -177,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 15时19分]"
+        },
+        {
+          "title": "国产AI模型为何大多免费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%A4%9A%E5%85%8D%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
