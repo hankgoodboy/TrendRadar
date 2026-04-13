@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T06:48:34.763361+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-14T07:47:01.429965+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时47分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时48分]"
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时47分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -41,8 +41,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时17分 ~ 07时47分]"
+        },
+        {
+          "title": "韩国AI初创公司Wrtn2025年销售额升至471亿韩元",
+          "url": "https://wallstreetcn.com/livenews/3087225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
+          "url": "https://www.cls.cn/detail/2342373",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时17分 ~ 06时48分]"
+          "time_info": "[04时08分 ~ 07时47分]"
         },
         {
           "title": "Claude：正在调查Claude.ai出现的问题。",
@@ -67,18 +90,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
-          "url": "https://www.cls.cn/detail/2342373",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时08分 ~ 06时48分]"
-        },
-        {
           "title": "市场消息：Adobe与乐购（TESCO）达成人工智能战略合作，为乐购客户打造个性化体验并提升会员忠诚度奖励。",
           "url": "https://flash.jin10.com/detail/20260413235747026800",
           "source": "金十数据",
@@ -96,7 +107,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -110,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "美联储理事米兰：AI可能会迅速摧毁就业，而要创造就业岗位则需数年。",
+          "url": "https://wallstreetcn.com/livenews/3087209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "北京最火饺子馆开始喂AI龙虾",
