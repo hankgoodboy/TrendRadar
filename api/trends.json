@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:53:51.094685+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-04-17T05:48:13.391010+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 05时48分]"
         },
         {
           "title": "据伊朗改革派报纸《Shargh Daily》报道，在经历48天的互联网中断后，谷歌搜索在伊朗已恢复访问，但部分谷歌服务仍无法使用。伊朗半官方通讯社法尔斯通讯社也报道称，“几分钟前，谷歌搜索引擎已重新向用户开放”，但补充称部分用户仍面临连接中断和网络波动问题。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "警惕人工智能让人类陷入“自恋”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 05时48分]"
         },
         {
           "title": "美国自1999年以来最大规模的工业股IPO：Madison Air Solutions美国IPO首日开盘报32美元，此前给出的IPO发行价为27美元。",
@@ -52,17 +63,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时53分]"
-        },
-        {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
           "url": "https://www.cls.cn/detail/2346308",
           "source": "财联社热门",
@@ -71,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 05时48分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 05时48分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -94,8 +94,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 05时48分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -105,8 +105,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时19分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 05时48分]"
+        },
+        {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时47分 ~ 05时48分]"
         },
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
@@ -126,7 +137,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -148,7 +159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
