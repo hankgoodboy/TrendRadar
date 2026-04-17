@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-17T19:01:54.532803+08:00",
-  "total_titles_processed": 1402,
+  "generated_at": "2026-04-17T20:02:08.679858+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
       "match_count": 31,
       "titles": [
+        {
+          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
+          "url": "https://www.cls.cn/detail/2347047",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 20时02分]"
+        },
         {
           "title": "番茄作者AI代笔,读者白追",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
@@ -19,20 +31,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时19分 ~ 19时01分]"
-        },
-        {
-          "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
-          "url": "https://www.cls.cn/detail/2347047",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时01分]"
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 20时02分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -96,6 +96,36 @@
           "time_info": "[01时19分 ~ 07时48分]"
         },
         {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            16,
+            18,
+            24,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时48分 ~ 20时02分]"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            7,
+            16,
+            25,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时31分 ~ 20时02分]"
+        },
+        {
           "title": "AI来了消博会 消费行业会怎么变",
           "url": "https://www.baidu.com/s?wd=AI%E6%9D%A5%E4%BA%86%E6%B6%88%E5%8D%9A%E4%BC%9A+%E6%B6%88%E8%B4%B9%E8%A1%8C%E4%B8%9A%E4%BC%9A%E6%80%8E%E4%B9%88%E5%8F%98",
           "source": "百度热搜",
@@ -128,20 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "朱珠版wait一开口对味了",
-          "url": "https://www.douyin.com/hot/2468877",
-          "source": "抖音",
-          "ranks": [
-            16,
-            18,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时48分 ~ 19时01分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -179,20 +195,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "国产AI激光“灭蚊神器”海外爆单",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%BA%A7AI%E6%BF%80%E5%85%89%E2%80%9C%E7%81%AD%E8%9A%8A%E7%A5%9E%E5%99%A8%E2%80%9D%E6%B5%B7%E5%A4%96%E7%88%86%E5%8D%95",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            7,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 19时01分]"
-        },
-        {
           "title": "解读AI蒸馏攻防战",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
           "source": "bilibili 热搜",
@@ -204,6 +206,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时47分 ~ 10时48分]"
+        },
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时02分]"
         },
         {
           "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
@@ -239,17 +252,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时31分 ~ 15时53分]"
-        },
-        {
-          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
-          "url": "https://www.cls.cn/detail/2346971",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 19时01分]"
         },
         {
           "title": "在OpenAI宣布伦敦首个永久办公室后，Anthropic揭晓英国重大扩张计划",
@@ -291,7 +293,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时01分"
         },
