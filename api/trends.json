@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T19:38:01.580609+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-04-18T21:09:07.320409+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时10分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[13时10分 ~ 21时09分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -31,11 +31,12 @@
             12,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时08分 ~ 19时38分]"
+          "appearance_count": 22,
+          "time_info": "[00时08分 ~ 21时09分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -57,11 +58,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时55分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[16时55分 ~ 21时09分]"
         },
         {
           "title": "高盛：AI的未来，要有光！",
@@ -222,6 +224,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时53分]"
+        },
+        {
+          "title": "起点百分之十的新书使用 AI 润色，起点会因为 AI 文而完蛋吗？",
+          "url": "https://www.zhihu.com/question/2028416884643472906",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 21时09分]"
         },
         {
           "title": "Kailera Therapeutics Inc.（KLRA）美国IPO首日收涨62.50%，报26美元。",
