@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T16:59:15.450600+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-04-19T17:56:54.712247+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 16时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 17时56分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -62,8 +62,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 16时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 17时56分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -76,8 +76,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 16时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时45分 ~ 17时56分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -88,8 +88,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 16时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 17时56分]"
         },
         {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
@@ -129,6 +129,18 @@
           "time_info": "[00时45分 ~ 03时44分]"
         },
         {
+          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
+          "url": "https://flash.jin10.com/detail/20260419155228082800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时59分 ~ 17时56分]"
+        },
+        {
           "title": "AI让人越来越累",
           "url": "https://s.weibo.com/weibo?q=AI%E8%AE%A9%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%B4%AF&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -139,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 15时24分]"
-        },
-        {
-          "title": "力源信息：第一季度净利润同比增长241% AI业务如光模块、液冷等因下游需求持续爆发而大幅增加",
-          "url": "https://flash.jin10.com/detail/20260419155228082800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时59分"
         },
         {
           "title": "美国空军首次使用AI兵棋推演系统",
