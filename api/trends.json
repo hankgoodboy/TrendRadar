@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T05:40:00.175475+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-04-20T06:40:16.418196+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "up主转战AI动画遭手绘党声讨",
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -26,8 +26,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时40分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -37,8 +37,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时40分]"
+        },
+        {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时44分 ~ 06时40分]"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -52,17 +64,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时56分 ~ 05时40分]"
-        },
-        {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 05时40分]"
         },
         {
           "title": "怎样能够一眼分辨出是 AI 生成的文章？",
@@ -86,6 +87,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 02时57分]"
+        },
+        {
+          "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260420053324061800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
