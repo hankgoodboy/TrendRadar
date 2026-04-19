@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T17:56:54.712247+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-04-19T18:44:04.560832+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             7,
             12,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 18时44分]"
         },
         {
           "title": "粉红蓝莓是AI生成的吗",
@@ -59,11 +60,12 @@
             11,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 18时44分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -76,8 +78,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时45分 ~ 17时56分]"
+          "appearance_count": 18,
+          "time_info": "[00时45分 ~ 18时44分]"
         },
         {
           "title": "DeepSeek 拟首次启动融资，估值超百亿美元，有何战略意图？对国内 AI 大模型赛道带来哪些改变？",
@@ -88,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时32分 ~ 17时56分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 18时44分]"
         },
         {
           "title": "AIDC供电，短期靠燃机“救火”，长期靠这三条路线",
@@ -134,11 +136,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时56分]"
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时44分]"
         },
         {
           "title": "AI让人越来越累",
