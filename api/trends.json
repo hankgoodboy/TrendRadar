@@ -1,23 +1,38 @@
 {
-  "generated_at": "2026-04-20T10:56:11.660032+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-04-20T13:46:15.542938+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "我们要不要向AI说谢谢？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时44分 ~ 13时46分]"
+        },
         {
           "title": "up主转战AI动画遭手绘党声讨",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353424&amp;topic_name=up%E4%B8%BB%E8%BD%AC%E6%88%98AI%E5%8A%A8%E7%94%BB%E9%81%AD%E6%89%8B%E7%BB%98%E5%85%9A%E5%A3%B0%E8%AE%A8",
           "source": "贴吧",
           "ranks": [
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 10时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 13时46分]"
         },
         {
           "title": "刺猬猫AI文霸榜,作者魔法对轰",
@@ -25,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             22,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 10时56分]"
+          "appearance_count": 16,
+          "time_info": "[00时44分 ~ 13时46分]"
         },
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -43,18 +59,16 @@
           "time_info": "[00时44分 ~ 07时40分]"
         },
         {
-          "title": "我们要不要向AI说谢谢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005512",
-          "source": "澎湃新闻",
+          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
+          "url": "https://www.zhihu.com/question/2027490615500313080",
+          "source": "知乎",
           "ranks": [
-            20,
-            14,
-            16,
-            13
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时44分 ~ 10时56分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 13时46分]"
         },
         {
           "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
@@ -93,15 +107,48 @@
           "time_info": "[00时45分 ~ 02时57分]"
         },
         {
-          "title": "如何看待番茄平台上月稿费 80 万的金番作者使用 AI 写作，甚至在正文中没有删除 AI 提示词的现象？",
-          "url": "https://www.zhihu.com/question/2027490615500313080",
-          "source": "知乎",
+          "title": "陈哲远丞磊曾舜晞入驻爱奇艺AI艺人库",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%9E%E7%A3%8A%E6%9B%BE%E8%88%9C%E6%99%9E%E5%85%A5%E9%A9%BB%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "time_info": "[13时45分 ~ 13时46分]"
+        },
+        {
+          "title": "AI李想",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%9D%8E%E6%83%B3&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
+        },
+        {
+          "title": "AI艺人库 自掘坟墓",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%89%BA%E4%BA%BA%E5%BA%93%20%E8%87%AA%E6%8E%98%E5%9D%9F%E5%A2%93&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
+        },
+        {
+          "title": "爱奇艺AI艺人库",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAAI%E8%89%BA%E4%BA%BA%E5%BA%93%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "AI初创公司Cursor正在洽谈筹集20亿美元的融资，估值超过500亿美元。",
@@ -121,9 +168,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "广东省新增6款已完成登记的生成式人工智能服务",
+          "url": "https://flash.jin10.com/detail/20260420124811920800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
+          "title": "广电运通：广电五舟已与华为昇腾、百度昆仑芯等主流国产GPU厂商建立深度合作，全面覆盖AIGC、计算机视觉等应用场景。",
+          "url": "https://flash.jin10.com/detail/20260420124359129800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "国投智能：公司已构建全链条AI安全能力体系",
@@ -135,6 +204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "富瀚微：除了面向商用场景，客户面向大众消费者的AI眼镜产品处于研发中。",
+          "url": "https://flash.jin10.com/detail/20260420123410108800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     }
