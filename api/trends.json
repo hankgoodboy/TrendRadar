@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T06:00:16.352026+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-04-23T06:58:26.658220+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时58分]"
         },
         {
           "title": "用AI办了场车展",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时58分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -41,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时58分]"
         },
         {
           "title": "“金穹”、“黄金舰队”、AI，五角大楼公布史上最大规模军费预算",
@@ -53,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时58分]"
         },
         {
           "title": "核心拒绝AI,异环美术光速滑跪",
@@ -64,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时58分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -76,8 +76,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 06时00分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 06时58分]"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -124,6 +124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时00分]"
+        },
+        {
+          "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
+          "url": "https://wallstreetcn.com/livenews/3092882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "甲骨文(ORCL.N)：随着公司为满足日益增长的客户需求而扩展人工智能基础设施，位于阿比林等地的设施已投入运营，同时新园区项目仍在按计划推进。",
