@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T10:48:15.889535+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-04-22T13:35:09.539847+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
@@ -69,26 +69,16 @@
           "time_info": "[01时06分 ~ 07时38分]"
         },
         {
-          "title": "AI创造营",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%88%9B%E9%80%A0%E8%90%A5&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
-        },
-        {
           "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
           "url": "https://www.cls.cn/detail/2351466",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时35分]"
         },
         {
           "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
@@ -96,6 +86,17 @@
           "source": "知乎",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时35分]"
+        },
+        {
+          "title": "AI创造营",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%9B%E9%80%A0%E8%90%A5&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -170,6 +171,30 @@
           "time_info": "[04时57分 ~ 05时57分]"
         },
         {
+          "title": "《灵魂摆渡》电影全AI生成",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时35分]"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时35分]"
+        },
+        {
           "title": "唐诡导演 真人能演为啥让AI演",
           "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%AF%BC%E6%BC%94%20%E7%9C%9F%E4%BA%BA%E8%83%BD%E6%BC%94%E4%B8%BA%E5%95%A5%E8%AE%A9AI%E6%BC%94&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -190,6 +215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时47分 ~ 10时48分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "SpaceX在上市文件中警示：太空AI项目技术未经验证，商业前景存疑",
@@ -216,26 +252,15 @@
           "time_info": "[05时57分 ~ 06时42分]"
         },
         {
-          "title": "《灵魂摆渡》电影全AI生成",
-          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
-        },
-        {
-          "title": "如果“AI艺人”真的来了，观众能接受吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "time_info": "[13时34分 ~ 13时35分]"
         },
         {
           "title": "用AI真的会让人变笨吗",
@@ -288,7 +313,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -313,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "特斯拉AI语音功能即将上线",
+          "url": "https://wallstreetcn.com/livenews/3092293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -343,9 +379,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元，该合资企业估值达100亿美元，融资预计于5月初完成。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3092290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时35分"
         },
         {
           "title": "阿里巴巴：发布生态级AI助手数字人千问小酒窝",
@@ -354,7 +401,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
