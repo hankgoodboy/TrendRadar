@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T04:54:38.365314+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-04-25T05:52:28.449921+08:00",
+  "total_titles_processed": 579,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -39,22 +39,12 @@
             12,
             14,
             9,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
-        },
-        {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -67,8 +57,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -81,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -92,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -103,8 +93,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 05时52分]"
+        },
+        {
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
         },
         {
           "title": "巴西财政部长：巴西将在6月前举行新的生态投资拍卖，重点关注关键矿产和人工智能。",
@@ -122,11 +123,12 @@
           "url": "https://wallstreetcn.com/articles/3770753",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 05时52分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Human Intelligence洽谈融资1亿美元。（彭博）",
