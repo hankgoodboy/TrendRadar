@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T20:02:21.231368+08:00",
-  "total_titles_processed": 1485,
+  "generated_at": "2026-04-24T22:02:42.276875+08:00",
+  "total_titles_processed": 1629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -31,11 +31,12 @@
             5,
             7,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时25分 ~ 20时02分]"
+          "appearance_count": 17,
+          "time_info": "[01时25分 ~ 22时02分]"
         },
         {
           "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
@@ -96,8 +97,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 22时02分]"
+        },
+        {
+          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
+          "url": "https://www.cls.cn/detail/2354727",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 22时02分]"
         },
         {
           "title": "这些图片居然都是AI的",
@@ -125,6 +138,18 @@
           "time_info": "[01时25分 ~ 05时52分]"
         },
         {
+          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
+          "url": "https://www.cls.cn/detail/2355054",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时01分 ~ 22时02分]"
+        },
+        {
           "title": "周四（4月23日），美股存储芯片与硬件供应链指数跌0.20%，报144.48点，在震荡上行行情中，北京时间23:42刷新日高至148.53点，随后震荡下行，01:46刷新日低至142.59点。 信息科技指数跌1.24%，报329.36点。 人工智能（AI）赢家指数跌0.92%，报348.16点。 AI软件先驱指数跌6.81%，报95.68点，跳空低开后持续低位窄幅震荡，形成长尾L形走势。",
           "url": "https://wallstreetcn.com/livenews/3093542",
           "source": "华尔街见闻-快讯",
@@ -150,17 +175,6 @@
           "time_info": "[10时51分 ~ 16时09分]"
         },
         {
-          "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
-          "url": "https://www.cls.cn/detail/2354727",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时02分]"
-        },
-        {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
           "url": "https://wallstreetcn.com/articles/3770753",
           "source": "华尔街见闻",
@@ -168,8 +182,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时02分]"
+          "appearance_count": 4,
+          "time_info": "[18时25分 ~ 22时02分]"
         },
         {
           "title": "如何看待 MiroMind 被指要求在中国孵化的 AI 大模型核心技术和团队转移到国外，否则竞业限制？",
@@ -193,17 +207,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时25分 ~ 20时02分]"
-        },
-        {
-          "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
-          "url": "https://www.cls.cn/detail/2355054",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时01分 ~ 20时02分]"
         },
         {
           "title": "AI在保护AI",
@@ -320,6 +323,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "强瑞技术：拟投资18亿元购买土地使用权并建设人工智能产业研发智造总部",
+          "url": "https://flash.jin10.com/detail/20260424213626251800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "可灵AI原生4K直出功能上线，提升影视工业级视频制作效率",
           "url": "https://wallstreetcn.com/livenews/3093658",
           "source": "华尔街见闻-快讯",
@@ -351,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
@@ -397,6 +422,28 @@
           "time_info": "05时52分"
         },
         {
+          "title": "工会表示，任何对精神航空（Spirit Airlines）的联邦救助必须确保员工不被裁员或减薪。",
+          "url": "https://flash.jin10.com/detail/20260424212909877800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "微软：马来西亚深化与微软的人工智能合作伙伴关系，该倡议旨在加强马来西亚的人工智能就绪程度。",
+          "url": "https://wallstreetcn.com/livenews/3094102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "AI驱动需求回升 英特尔一季度营收超预期",
           "url": "https://flash.jin10.com/detail/20260424051240495800",
           "source": "金十数据",
@@ -441,6 +488,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "DeepSeek V4揭开AI内卷终局",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8F%AD%E5%BC%80AI%E5%86%85%E5%8D%B7%E7%BB%88%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "OpenAI：发布GPT‑5.5，并配备迄今为止最强大的一套安全防护措施。",
           "url": "https://flash.jin10.com/detail/20260424020613042800",
           "source": "金十数据",
@@ -483,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "小米高管称所有岗位都可能被AI替代",
+          "url": "https://www.toutiao.com/trending/7632268659670453770/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
