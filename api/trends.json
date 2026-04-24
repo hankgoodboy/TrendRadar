@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T01:52:41.389499+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-04-25T02:58:24.313497+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI图以假乱真,恐怖谷效应拉满",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
         },
         {
           "title": "一图看懂 | 站在“光”里，苏州这些上市公司藏着AI算力密码",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
         },
         {
           "title": "外交部：中方坚决反对美方污蔑抹黑中国人工智能产业发展成就",
@@ -53,28 +53,30 @@
           "time_info": "00时07分"
         },
         {
-          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
-          "url": "https://www.cls.cn/detail/2355166",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
-        },
-        {
           "title": "中方反对美方污蔑抹黑中国AI产业",
           "url": "https://www.douyin.com/hot/2477525",
           "source": "抖音",
           "ranks": [
             16,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
+        },
+        {
+          "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
+          "url": "https://www.cls.cn/detail/2355166",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -82,11 +84,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -96,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -107,8 +110,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时58分]"
         },
         {
           "title": "英特尔Q1电话会：AI业务猛增40%，CEO高呼“CPU重返AI核心”，AI推理将CPU比例推向1:4",
@@ -144,6 +147,28 @@
           "time_info": "00时07分"
         },
         {
+          "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
+          "url": "https://flash.jin10.com/detail/20260425022647112800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
+          "url": "https://wallstreetcn.com/livenews/3094244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
           "title": "贝莱德：AI热潮中看好半导体和硬件股",
           "url": "https://wallstreetcn.com/livenews/3094185",
           "source": "华尔街见闻-快讯",
@@ -153,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "中国AI隐形王者股价一年翻10倍",
+          "url": "https://www.toutiao.com/trending/7632244941749489179/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "英特尔CEO陈立武表示，英特尔的业绩“稳健”，超出预期。 他预计用于人工智能系统的处理器需求将持续增长，并称公司正“高度专注”于提升工厂产能，目前仍无法完全满足所有订单。 “需求非常强劲。我们正与团队密切努力，确保能够交付、满足需求，但由于客户需求持续增长，我们仍然供不应求。”（彭博）",
