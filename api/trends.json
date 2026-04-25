@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T19:41:41.656593+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-04-25T21:11:30.156029+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 19时41分]"
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 21时11分]"
         },
         {
           "title": "中方反对美方污蔑抹黑中国AI产业",
@@ -86,11 +86,12 @@
             1,
             8,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 19时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 21时11分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -133,8 +134,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 19时41分]"
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 21时11分]"
+        },
+        {
+          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
+          "url": "https://wallstreetcn.com/articles/3770880",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 21时11分]"
         },
         {
           "title": "罚没已超33亿，证监会新一轮打击财务造假，强化财务舞弊监管AI大模型应用",
@@ -160,23 +173,12 @@
             15,
             20,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时06分 ~ 19时41分]"
-        },
-        {
-          "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
-          "url": "https://wallstreetcn.com/articles/3770880",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 19时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时06分 ~ 21时11分]"
         },
         {
           "title": "英特尔第一季财季营收再超预期，盘后大涨18%，陈立武：CPU正重新确立其人工智能基础的地位",
@@ -200,8 +202,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时57分 ~ 19时41分]"
+          "appearance_count": 8,
+          "time_info": "[16时57分 ~ 21时11分]"
         },
         {
           "title": "研究称 7 款顶级 AI 模型为保护同伴，集体出现撒谎、篡研文件等行为，这种抱团欺骗会带来多大风险？",
@@ -210,11 +212,12 @@
           "ranks": [
             8,
             5,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 16时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 21时11分]"
         },
         {
           "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
