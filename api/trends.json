@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T19:42:13.198359+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-04-26T21:13:08.774213+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -46,6 +46,20 @@
           "time_info": "[00时47分 ~ 10时58分]"
         },
         {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 21时13分]"
+        },
+        {
           "title": "AI图以假乱真,恐怖谷效应拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
@@ -55,11 +69,12 @@
             19,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时47分 ~ 19时42分]"
+          "appearance_count": 22,
+          "time_info": "[00时47分 ~ 21时13分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -87,19 +102,6 @@
           "time_info": "[00时47分 ~ 10时58分]"
         },
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时44分 ~ 19时42分]"
-        },
-        {
           "title": "AI帮忙投资靠谱吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%B8%AE%E5%BF%99%E6%8A%95%E8%B5%84%E9%9D%A0%E8%B0%B1%E5%90%97",
           "source": "bilibili 热搜",
@@ -110,6 +112,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时47分 ~ 10时58分]"
+        },
+        {
+          "title": "专家热议AI短剧以规范促发展",
+          "url": "https://www.douyin.com/hot/2479735",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 21时13分]"
         },
         {
           "title": "京东启动“Aidol创造营”计划 面向全球征集AI智能硬件项目",
@@ -136,17 +150,6 @@
           "time_info": "[17时05分 ~ 19时42分]"
         },
         {
-          "title": "专家热议AI短剧以规范促发展",
-          "url": "https://www.douyin.com/hot/2479735",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时50分 ~ 19时42分]"
-        },
-        {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
           "url": "https://flash.jin10.com/detail/20260426120715740800",
           "source": "金十数据",
@@ -157,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 15时44分]"
+        },
+        {
+          "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056313",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 21时13分]"
         },
         {
           "title": "玉渊谭天：中国AI要活在自己的节奏里",
