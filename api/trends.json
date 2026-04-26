@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T10:58:07.683329+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-04-26T13:45:36.000098+08:00",
+  "total_titles_processed": 853,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -51,11 +51,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 10时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 13时45分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -104,6 +105,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 10时58分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         }
       ]
     }
