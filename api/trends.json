@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T02:14:42.180591+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-04-30T04:15:58.339025+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
@@ -50,8 +50,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
         },
         {
           "title": "苹果公司计划在iOS 27提供一款Siri摄像头模型和升级款视觉AI。",
@@ -66,18 +78,6 @@
           "time_info": "[00时44分 ~ 02时14分]"
         },
         {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
-        },
-        {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
           "url": "https://www.cls.cn/detail/2360001",
           "source": "财联社热门",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -96,8 +96,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时15分]"
         },
         {
           "title": "在异环中演奏See you again",
@@ -118,7 +118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
