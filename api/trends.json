@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T14:26:30.621687+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-04-29T17:12:20.349485+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 45,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 17时12分]"
+        },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
           "url": "https://wallstreetcn.com/articles/3771068",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 14时26分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时26分]"
         },
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -94,6 +94,30 @@
           "time_info": "[00时55分 ~ 07时58分]"
         },
         {
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时12分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时57分 ~ 17时12分]"
+        },
+        {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
           "url": "https://www.zhihu.com/question/2032163714355263384",
           "source": "知乎",
@@ -107,30 +131,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时55分 ~ 07时58分]"
-        },
-        {
-          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
-          "url": "https://www.cls.cn/detail/2358910",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时26分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时26分]"
         },
         {
           "title": "OpenAI“朋友圈”遭市场重估！",
@@ -206,11 +206,24 @@
           "url": "https://www.zhihu.com/question/2030222424457703714",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 17时12分]"
+        },
+        {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 17时12分]"
         },
         {
           "title": "AI算力需求持续爆发，工业富联Q1营收同比增长57%，净利润增长103%｜财报见闻",
@@ -235,15 +248,37 @@
           "time_info": "[11时42分 ~ 11时43分]"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
+          "title": "马斯克称奥尔特曼是“小偷”，OpenAI反驳",
+          "url": "https://news.ifeng.com/c/8sifWoWmOAa",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时26分"
+          "time_info": "17时12分"
+        },
+        {
+          "title": "微软、亚马逊、Meta、Alphabet同日放榜！AI叙事若失速，科技股回调或迅速放大",
+          "url": "https://flash.jin10.com/detail/20260429163636046800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "英伟达推出NEMOTRON 3 NANO OMNI模型，实现视觉、音频和语言的统一，使AI智能体的效率提高至9倍。",
@@ -406,7 +441,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -439,7 +474,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
