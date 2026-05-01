@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-05-02T02:02:06.059894+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-02T03:26:10.159286+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 03时26分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 03时26分]"
+        },
         {
           "title": "甲骨文加入五角大楼AI项目，股价刷新日高",
           "url": "https://wallstreetcn.com/livenews/3097953",
@@ -19,28 +45,15 @@
           "time_info": "00时04分"
         },
         {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
+          "title": "女子被AI误导闯入毒蛇窝",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E6%AF%92%E8%9B%87%E7%AA%9D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            9
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时02分]"
-        },
-        {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 02时02分]"
+          "appearance_count": 2,
+          "time_info": "[03时25分 ~ 03时26分]"
         },
         {
           "title": "AI踩平量化门槛，普通人入局机会在哪？",
@@ -104,7 +117,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -115,7 +128,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
