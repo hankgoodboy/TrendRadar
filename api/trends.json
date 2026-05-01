@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T15:27:47.507071+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-05-01T17:49:28.797342+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 17时49分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -26,11 +26,23 @@
           "source": "贴吧",
           "ranks": [
             20,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 17时49分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 17时49分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -48,17 +60,6 @@
           "time_info": "[00时22分 ~ 08时01分]"
         },
         {
-          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
-          "url": "https://news.ifeng.com/c/8slj4BER3rc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 15时27分]"
-        },
-        {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
           "url": "https://www.cls.cn/detail/2361533",
           "source": "财联社热门",
@@ -70,8 +71,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时58分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[05时58分 ~ 17时49分]"
+        },
+        {
+          "title": "AI古代铠甲勇士完结篇",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 17时49分]"
         },
         {
           "title": "美国白宫人工智能顾问萨克斯：Mythos不是世界末日装置。",
@@ -85,16 +99,15 @@
           "time_info": "02时12分"
         },
         {
-          "title": "AI古代铠甲勇士完结篇",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
-          "source": "bilibili 热搜",
+          "title": "女子被AI误导闯入响尾蛇窝：无比后怕",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E8%A2%ABAI%E8%AF%AF%E5%AF%BC%E9%97%AF%E5%85%A5%E5%93%8D%E5%B0%BE%E8%9B%87%E7%AA%9D%EF%BC%9A%E6%97%A0%E6%AF%94%E5%90%8E%E6%80%95",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            20
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 15时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
@@ -207,6 +220,18 @@
           "time_info": "[12时11分 ~ 12时12分]"
         },
         {
+          "title": "女子被AI误导闯入响尾蛇窝",
+          "url": "https://www.toutiao.com/trending/7634484856417468470/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 17时49分]"
+        },
+        {
           "title": "AI 对于制造业程序员的冲击大吗？",
           "url": "https://www.zhihu.com/question/2024649839900726675",
           "source": "知乎",
@@ -246,7 +271,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
         },
@@ -326,17 +351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
-        },
-        {
-          "title": "女子被AI误导闯入响尾蛇窝",
-          "url": "https://www.toutiao.com/trending/7634484856417468470/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         }
       ]
     }
