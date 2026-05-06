@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:50:53.989498+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-05-06T22:21:29.851723+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 19时50分]"
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 22时21分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -42,6 +42,33 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 11时26分]"
+        },
+        {
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 22时21分]"
+        },
+        {
+          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 22时21分]"
         },
         {
           "title": "奥斯卡新规明确禁用 AI 演员、限制 AI 剧本，究竟是守护创作本质，还是在开时代倒车？",
@@ -71,20 +98,6 @@
           "time_info": "[01时04分 ~ 11时26分]"
         },
         {
-          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 19时50分]"
-        },
-        {
           "title": "知情人士透露，谷歌(GOOG.O)正在为Gemini打造一个7x24小时全天候运行的人工智能“个人代理”。",
           "url": "https://flash.jin10.com/detail/20260506014918064800",
           "source": "金十数据",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
-        },
-        {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 19时50分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -154,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时52分]"
+        },
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时50分 ~ 22时21分]"
         },
         {
           "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
@@ -281,17 +294,6 @@
           "time_info": "14时32分"
         },
         {
-          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
-          "url": "https://www.cls.cn/detail/2363932",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
           "title": "Cerence AI：也提起了地区法院诉讼。",
           "url": "https://flash.jin10.com/detail/20260506052339847800",
           "source": "金十数据",
@@ -312,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "OpenAI：我们已与 AMD、博通、英特尔、微软及英伟达达成合作，共同发布多路径可靠连接（MRC）。",
+          "url": "https://flash.jin10.com/detail/20260506220121812800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "Anthropic发布金融AI代理，FactSet等数据服务商遭到冲击",
@@ -375,7 +388,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -444,6 +457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "欧盟委员会人工智能事务官员西奥利：欧盟委员会向成员国展示了Mythos模型的能力。",
+          "url": "https://flash.jin10.com/detail/20260506215656678800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
@@ -518,7 +542,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -529,7 +553,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
@@ -540,7 +564,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时50分"
         },
