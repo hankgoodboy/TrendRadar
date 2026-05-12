@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T15:45:50.171412+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2026-05-12T18:34:59.554997+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             7,
             1,
             2,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 18时34分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -36,8 +37,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 18时34分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -52,8 +53,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 18时34分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -64,22 +65,24 @@
             19,
             22,
             25,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时30分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 18时34分]"
         },
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 18时34分]"
         },
         {
           "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
@@ -132,9 +135,35 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            9,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 18时34分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 18时34分]"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -150,16 +179,16 @@
           "time_info": "[03时53分 ~ 08时05分]"
         },
         {
-          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
-          "url": "https://www.zhihu.com/question/2037128887558207003",
-          "source": "知乎",
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
           "ranks": [
             9,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 15时45分]"
+          "time_info": "[15时45分 ~ 18时34分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -172,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时58分]"
-        },
-        {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 15时45分]"
         },
         {
           "title": "CORTIS新歌ACAI的MV来了",
@@ -228,17 +245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
-        },
-        {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
         },
         {
           "title": "AI挑衅Viper",
@@ -324,7 +330,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -357,7 +363,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
