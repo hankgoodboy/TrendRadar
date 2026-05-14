@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T05:13:39.818871+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-15T07:00:28.719436+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时00分]"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
@@ -25,45 +25,36 @@
           "ranks": [
             5,
             12,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时13分]"
-        },
-        {
-          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
-          "url": "https://wallstreetcn.com/articles/3772269",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时00分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
           "url": "https://www.cls.cn/detail/2371414",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时00分]"
         },
         {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
           "url": "https://www.cls.cn/detail/2371337",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时00分]"
         },
         {
           "title": "黄仁勋谈中国AI发展",
@@ -72,11 +63,12 @@
           "ranks": [
             28,
             20,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时00分]"
         },
         {
           "title": "高校硬查AI率,复旦教授怒了",
@@ -84,6 +76,18 @@
           "source": "贴吧",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时53分 ~ 07时00分]"
+        },
+        {
+          "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
+          "url": "https://wallstreetcn.com/articles/3772269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -143,9 +147,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "美联储威廉姆斯：强劲的生产力不仅仅是人工智能的崛起。",
+          "url": "https://flash.jin10.com/detail/20260515062144580800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         },
         {
           "title": "xAI发布Grok Build的一个早期测试版。",
@@ -159,6 +174,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "AI扩建，驱动美国最大电网电费暴涨76%",
+          "url": "https://wallstreetcn.com/livenews/3103927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "人工智能芯片制造商Cerebras Systems股票在纳斯达克首日开盘价为350美元，IPO发行价为185美元。",
           "url": "https://flash.jin10.com/detail/20260515010026093800",
           "source": "金十数据",
@@ -170,6 +196,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国纽约联储主席威廉姆斯：生产力强劲，不仅仅与AI有关。 预计生产力将继续强劲增长。 理解市场为何对经济的未来感到乐观。",
+          "url": "https://wallstreetcn.com/livenews/3103926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
+        },
+        {
           "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
           "url": "https://flash.jin10.com/detail/20260515021742369800",
           "source": "金十数据",
@@ -179,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "福特汽车股价两日飙升21%，AI热潮向传统行业扩散",
+          "url": "https://wallstreetcn.com/livenews/3103925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         },
         {
           "title": "苹果与OpenAI关系紧张 后者拟诉诸法律",
@@ -209,7 +257,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
@@ -223,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "AI概念股普遍收涨，Nebius涨6.7%，博通涨超5.5%，台积电、英伟达、C3.ai涨超4%",
+          "url": "https://wallstreetcn.com/livenews/3103910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时00分"
         },
         {
           "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
