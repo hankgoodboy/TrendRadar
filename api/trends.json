@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T08:05:38.369756+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-05-15T12:53:29.219096+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -82,6 +82,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时53分 ~ 07时00分]"
+        },
+        {
+          "title": "有没有人试过把全世界已有的佛经喂给 AI 看看最后能不能生成一个赛博在世佛祖?",
+          "url": "https://www.zhihu.com/question/2018783635805860978",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
@@ -202,6 +213,17 @@
           "time_info": "07时00分"
         },
         {
+          "title": "腾讯辟谣“AI一号位即将离职”",
+          "url": "https://www.toutiao.com/trending/7639594791072628786/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "xAI发布Grok Build的一个早期测试版。",
           "url": "https://wallstreetcn.com/livenews/3103859",
           "source": "华尔街见闻-快讯",
@@ -211,6 +233,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "AI芯片公司Cerebras纳斯达克首秀暴涨近一倍 市值一度突破800亿美元",
+          "url": "https://www.cls.cn/detail/2371792",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "人工智能芯片制造商Cerebras Systems股票在纳斯达克首日开盘价为350美元，IPO发行价为185美元。",
@@ -246,6 +279,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-15）",
+          "url": "https://flash.jin10.com/detail/20260515120636864800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
           "url": "https://flash.jin10.com/detail/20260515021140763800",
           "source": "金十数据",
@@ -266,6 +310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "中国信通院启动人工智能终端智能化分级测试工作 加速推进新国标落地实施",
+          "url": "https://wallstreetcn.com/livenews/3104092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
