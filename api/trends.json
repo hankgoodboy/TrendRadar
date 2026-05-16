@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-16T11:54:28.176682+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2026-05-16T14:24:58.723139+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -13,11 +13,24 @@
           "source": "贴吧",
           "ranks": [
             7,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 11时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 14时24分]"
+        },
+        {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 14时24分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
@@ -32,18 +45,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时41分 ~ 07时59分]"
-        },
-        {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 11时54分]"
         },
         {
           "title": "【美联储：鲍威尔将担任临时主席，直至凯文·沃什宣誓就职】美联储理事会周五在一份声明中表示，已任命杰罗姆·鲍威尔担任临时主席（chair pro tempore），直至其继任者凯文·沃什（Kevin Warsh）正式宣誓就职。 鲍威尔的主席任期于本周五届满。 美联储表示：“任命现任主席担任临时主席的这一临时举措，与以往历届主席更替期间的惯例保持一致。”",
@@ -126,13 +127,24 @@
           "time_info": "[03时43分 ~ 11时54分]"
         },
         {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时24分"
+        },
+        {
           "title": "席瑞对话 Cecilia，他认为「AI 能给答案，但给不了孩子问出好问题的能力」，你认可这个观点吗？",
           "url": "https://www.zhihu.com/question/2038564529353839746",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -165,7 +177,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
