@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:53:07.061984+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-22T06:22:30.102019+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "涨停封单最高超百亿元！京东方A签约康宁搅动AI封装产业链",
@@ -81,8 +81,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
@@ -93,8 +93,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -102,11 +102,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "逆转裁判但网文AI对决",
@@ -170,7 +171,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -181,7 +182,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         }
