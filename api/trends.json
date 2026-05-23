@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-23T21:41:39.025446+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2026-05-23T23:03:55.413453+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
@@ -127,11 +127,12 @@
           "ranks": [
             17,
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时03分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时03分 ~ 23时03分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -142,8 +143,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 23时03分]"
         },
         {
           "title": "AI光算力第一股上市首日暴涨380%",
@@ -151,11 +152,12 @@
           "source": "微博",
           "ranks": [
             28,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 23时03分]"
         },
         {
           "title": "ai漫剧硬通货 泡面火腿纯净水",
@@ -185,11 +187,12 @@
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 23时03分]"
         },
         {
           "title": "英伟达黄仁勋：Vera Rubin将成为迄今为止最成功的一代。 希望Super Micro能够提升合规性。 明年我们将继续保持高速增长。 人工智能将影响每一个行业。 内存价格对消费者来说是一个挑战。 希望内存供应商能尽快提升产能。",
