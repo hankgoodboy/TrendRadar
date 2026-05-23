@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T05:58:52.789751+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-05-24T07:01:52.314279+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时01分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时01分]"
         },
         {
           "title": "AI 泡沫还能持续多久？",
@@ -40,8 +41,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 07时01分]"
         },
         {
           "title": "你觉得 ai 会完全替代人类吗？",
