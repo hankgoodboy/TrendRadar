@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T04:59:43.041514+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-05-25T06:04:27.070622+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时04分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 06时04分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -82,7 +82,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
