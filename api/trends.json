@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T08:02:59.267681+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-25T13:22:44.184729+08:00",
+  "total_titles_processed": 747,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 13时22分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -38,11 +39,34 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 13时22分]"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         },
         {
           "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
@@ -51,7 +75,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
