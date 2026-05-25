@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T05:11:56.254653+08:00",
-  "total_titles_processed": 442,
+  "generated_at": "2026-05-26T07:06:30.831055+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时06分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时06分]"
         },
         {
           "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时06分]"
         },
         {
           "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
@@ -49,11 +49,12 @@
           "ranks": [
             16,
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时06分]"
         },
         {
           "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
@@ -63,8 +64,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 07时06分]"
         },
         {
           "title": "xAI：Grok Build预测版本现在向所有SuperGrok用户和X Premium+用户开放。",
