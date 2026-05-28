@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-28T07:24:38.547085+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-05-28T11:52:13.602734+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 11时52分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -31,6 +32,41 @@
           "time_info": "[00时40分 ~ 05时59分]"
         },
         {
+          "title": "人工智能成外贸增长新引擎",
+          "url": "https://www.douyin.com/hot/2514888",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 11时52分]"
+        },
+        {
+          "title": "AI坑爹,棒球名帅丢饭碗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 11时52分]"
+        },
+        {
           "title": "Meta推出AI聊天机器人订阅服务，以试图抵消相关支出",
           "url": "https://flash.jin10.com/detail/20260528025401053800",
           "source": "金十数据",
@@ -40,28 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 07时24分]"
-        },
-        {
-          "title": "AI坑爹,棒球名帅丢饭碗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
-          "source": "贴吧",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -79,11 +93,45 @@
           "url": "https://www.cls.cn/detail/2383460",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 11时52分]"
+        },
+        {
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 11时52分]"
         },
         {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
@@ -103,7 +151,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -136,7 +184,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -147,7 +195,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
