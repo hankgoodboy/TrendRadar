@@ -1,103 +1,12 @@
 {
-  "generated_at": "2026-06-01T20:40:38.066509+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2026-06-02T02:41:23.747407+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 38,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
-          "url": "https://www.cls.cn/detail/2386314",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时09分]"
-        },
-        {
-          "title": "高盛加入“AI瓶颈交易”：MLCC是新存储，已成AI服务器“第三大成本项”",
-          "url": "https://wallstreetcn.com/articles/3773499",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时09分]"
-        },
-        {
-          "title": "全国首个绿色算力全栈AI平台上线",
-          "url": "https://www.cls.cn/detail/2386167",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时09分]"
-        },
-        {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时09分]"
-        },
-        {
-          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
-          "url": "https://wallstreetcn.com/articles/3773512",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时09分]"
-        },
-        {
-          "title": "黄仁勋预告“PC新时代”：英伟达不想只卖GPU了，开始抢下一代AI PC入口",
-          "url": "https://wallstreetcn.com/articles/3773517",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "黄仁勋：Vera Rubin全面量产，AI Agent是重点方向，挑战英特尔剑指下一代AI PC入口",
-          "url": "https://wallstreetcn.com/articles/3773548",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "AI热情主导市场，英伟达盘前涨超2%，软件股大涨，美光股价站上1000美元，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
         {
           "title": "大力推进人工智能+能源融合发展",
           "url": "https://www.douyin.com/hot/2520343",
@@ -105,20 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://www.cls.cn/detail/2386515",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "02时41分"
         },
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -127,34 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "LobsterAI上线图片视频大模型矩阵",
-          "url": "https://flash.jin10.com/detail/20260601133424599800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
-          "url": "https://www.zhihu.com/question/2044397085965955829",
-          "source": "知乎",
-          "ranks": [
-            12,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 08时09分]"
+          "time_info": "02时41分"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -163,79 +36,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276037",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 06时03分]"
-        },
-        {
-          "title": "媒体：莫让AI加剧医患“沟通危机”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276405",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时09分 ~ 14时06分]"
-        },
-        {
-          "title": "让小孩学AI是浪费时间吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%B0%8F%E5%AD%A9%E5%AD%A6AI%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时03分]"
-        },
-        {
-          "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
-          "url": "https://www.zhihu.com/question/2044518201330073873",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 06时03分]"
-        },
-        {
-          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
-          "url": "https://wallstreetcn.com/articles/3773518",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "02时41分"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
@@ -244,196 +47,64 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "02时41分"
         },
         {
-          "title": "英伟达(NVDA.O)：台积电(TSM.N)使用英伟达CUDA-X库和AI模型加速英伟达GPU上的工作负载。",
-          "url": "https://flash.jin10.com/detail/20260601132527452800",
-          "source": "金十数据",
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "02时41分"
         },
         {
-          "title": "AI热情主导市场，日韩股市齐创新高，韩股一度触发熔断，三星电子大涨10%",
-          "url": "https://wallstreetcn.com/articles/3773537",
-          "source": "华尔街见闻",
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "02时41分"
         },
         {
-          "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
-          "url": "https://flash.jin10.com/detail/20260531234826092800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "英伟达：将与台积电合作将AI引入晶圆厂，推动半导体设计与制造创新。",
-          "url": "https://wallstreetcn.com/livenews/3112187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "日经首破67000点，软银击败丰田登顶：AI正在重写日本股市",
-          "url": "https://flash.jin10.com/detail/20260601132322498800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "6月1日A股涨停复盘：AI应用端爆发",
-          "url": "https://www.toutiao.com/trending/7646262605242482694/",
+          "title": "为什么说AI下一个爆发点在智能终端",
+          "url": "https://www.toutiao.com/trending/7646385380161228324/",
           "source": "今日头条",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：公司推出面向机器人AI的新一代模型。",
-          "url": "https://wallstreetcn.com/livenews/3112179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "02时41分"
         },
         {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://wallstreetcn.com/livenews/3111994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "英伟达推出面向Windows的DGX Station，为企业配备拥有万亿参数的人工智能超级计算机。",
-          "url": "https://wallstreetcn.com/livenews/3112177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：英伟达将随每一代AI处理器同步推出新一代个人电脑（PC）芯片。",
-          "url": "https://wallstreetcn.com/livenews/3112175",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
+          "url": "https://www.zhihu.com/question/2044719064757397392",
+          "source": "知乎",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "02时41分"
         },
         {
-          "title": "国泰海通：维持海外AI算力及应用产业链“增持”评级",
-          "url": "https://flash.jin10.com/detail/20260531225844025800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "英伟达(NVDA.O)推出Cosmos 3开放世界基础模型，旨在推动物理人工智能的发展。",
-          "url": "https://flash.jin10.com/detail/20260601130620830800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "黄仁勋和刘强东都反对借AI名义裁员",
-          "url": "https://www.toutiao.com/trending/7646333345659358729/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：推出全新AI模型Nemotron 3 Ultra。",
-          "url": "https://wallstreetcn.com/livenews/3112168",
+          "title": "Apollo首席经济学家称AI热潮将浇灭美联储新任主席沃什快速降息的希望",
+          "url": "https://wallstreetcn.com/livenews/3112583",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "英伟达(NVDA.O)与台积电(TSM.N)携手将人工智能引入晶圆厂，推动半导体设计与制造技术升级。",
-          "url": "https://flash.jin10.com/detail/20260601130243574800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
-        },
-        {
-          "title": "清理违规视频8000余条，5月“AI魔改”视频专项治理成果公布",
-          "url": "https://wallstreetcn.com/livenews/3112392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "AIPC概念股集体大涨",
-          "url": "https://s.weibo.com/weibo?q=%23AIPC%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时06分"
+          "time_info": "02时41分"
         }
       ]
     }
