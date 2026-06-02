@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T13:51:24.352085+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-06-02T18:29:24.717112+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 25,
+      "match_count": 32,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时16分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[08时16分 ~ 18时29分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -51,6 +52,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 06时13分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时41分 ~ 18时29分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 18时29分]"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
@@ -66,27 +92,26 @@
           "time_info": "[02时41分 ~ 13时51分]"
         },
         {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            8,
-            13
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时41分 ~ 13时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "18时29分"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -115,6 +140,18 @@
           "time_info": "[02时41分 ~ 08时17分]"
         },
         {
+          "title": "我用AI做了祖国人胜利结局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 18时29分]"
+        },
+        {
           "title": "黄仁勋和刘强东都反对借AI名义裁员",
           "url": "https://www.toutiao.com/trending/7646333345659358729/",
           "source": "今日头条",
@@ -132,9 +169,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
@@ -148,13 +196,24 @@
           "time_info": "06时13分"
         },
         {
+          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2388416",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
           "url": "https://wallstreetcn.com/articles/3773569",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -165,7 +224,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -187,7 +246,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -201,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "香港证监会敦促持牌机构防范AI驱动的新兴网络威胁",
+          "url": "https://wallstreetcn.com/livenews/3112975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "为什么说AI下一个爆发点在智能终端",
@@ -231,9 +301,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
+        },
+        {
+          "title": "联发科承诺扩大招聘 以助力向新的人工智能业务领域推进",
+          "url": "https://wallstreetcn.com/livenews/3112970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
@@ -269,15 +350,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "我用AI做了祖国人胜利结局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E5%81%9A%E4%BA%86%E7%A5%96%E5%9B%BD%E4%BA%BA%E8%83%9C%E5%88%A9%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "国务院：提出了大食物开发、“人工智能+”农业、农产品加工业提升等重大工程和行动",
+          "url": "https://wallstreetcn.com/livenews/3112955",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "18时29分"
         },
         {
           "title": "端侧AI驱动下一轮增长，国产存储芯片迎新机遇",
