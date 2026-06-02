@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-02T18:29:24.717112+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-06-02T22:57:01.823633+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时16分 ~ 22时57分]"
+        },
         {
           "title": "大力推进人工智能+能源融合发展",
           "url": "https://www.douyin.com/hot/2520343",
@@ -30,17 +43,42 @@
           "time_info": "[02时41分 ~ 08时17分]"
         },
         {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时41分 ~ 22时57分]"
+        },
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1,
-            4
+            4,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时16分 ~ 18时29分]"
+          "time_info": "[13时51分 ~ 22时57分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时57分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -52,31 +90,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 06时13分]"
-        },
-        {
-          "title": "AI坑健身小白买20kg哑铃",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时41分 ~ 18时29分]"
-        },
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时51分 ~ 18时29分]"
         },
         {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
@@ -92,24 +105,13 @@
           "time_info": "[02时41分 ~ 13时51分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
           "url": "https://www.cls.cn/detail/2387988",
           "source": "财联社热门",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -145,11 +147,58 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 22时57分]"
+        },
+        {
+          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
+          "url": "https://wallstreetcn.com/articles/3773656",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时57分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2388416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 22时57分]"
+        },
+        {
+          "title": "AI引爆存储需求！SK集团董事长：计划未来五年将晶圆产能翻倍",
+          "url": "https://www.cls.cn/detail/2388372",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 22时57分]"
+        },
+        {
+          "title": "AI演员已经有眼神戏了",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E6%9C%89%E7%9C%BC%E7%A5%9E%E6%88%8F%E4%BA%86%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时51分 ~ 18时29分]"
+          "time_info": "[22时56分 ~ 22时57分]"
         },
         {
           "title": "黄仁勋和刘强东都反对借AI名义裁员",
@@ -174,17 +223,6 @@
           "time_info": "13时51分"
         },
         {
-          "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
-          "url": "https://wallstreetcn.com/articles/3773656",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
           "title": "亚马逊(AMZN.O)：OpenAI的GPT-5.5、GPT-5.4及Codex现已登陆Amazon Bedrock。",
           "url": "https://flash.jin10.com/detail/20260602053510657800",
           "source": "金十数据",
@@ -194,17 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "【每日收评】创业板指震荡走高涨超2.5%，CPO、光纤等AI硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2388416",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
         },
         {
           "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
@@ -268,7 +295,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -312,7 +339,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -356,7 +383,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
