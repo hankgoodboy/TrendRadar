@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T04:26:01.138054+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-06-12T06:51:49.248165+08:00",
+  "total_titles_processed": 530,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "AI短片效果看到起鸡皮疙瘩了",
@@ -36,11 +36,12 @@
           "source": "微博",
           "ranks": [
             5,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
@@ -50,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -62,8 +63,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -74,8 +75,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -83,11 +84,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
@@ -95,11 +97,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -109,8 +112,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时41分 ~ 04时26分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 06时51分]"
         },
         {
           "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
@@ -120,19 +123,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时51分]"
         },
         {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时25分 ~ 04时26分]"
+          "appearance_count": 3,
+          "time_info": "[04时25分 ~ 06时51分]"
         },
         {
           "title": "OpenAI将收购Ona 强化Codex代理能力",
