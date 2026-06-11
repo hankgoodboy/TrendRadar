@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T01:41:57.501666+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-12T04:26:01.138054+08:00",
+  "total_titles_processed": 429,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -15,41 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "AI短片效果看到起鸡皮疙瘩了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
         },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
         },
         {
-          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
-          "source": "澎湃新闻",
+          "title": "AI短片效果看到起鸡皮疙瘩了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
         },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
@@ -59,41 +50,89 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
           "url": "https://wallstreetcn.com/articles/3774376",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
         },
         {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
+        },
+        {
+          "title": "超模女球迷爆火后出镜 自证不是AI",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1%E5%A5%B3%E7%90%83%E8%BF%B7%E7%88%86%E7%81%AB%E5%90%8E%E5%87%BA%E9%95%9C+%E8%87%AA%E8%AF%81%E4%B8%8D%E6%98%AFAI",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 04时26分]"
+        },
+        {
+          "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
+          "url": "https://wallstreetcn.com/articles/3774382",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
+        },
+        {
+          "title": "UP主做了个AI谢苗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 04时26分]"
         },
         {
           "title": "OpenAI将收购Ona 强化Codex代理能力",
@@ -112,17 +151,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "超模女球迷爆火后出镜 自证不是AI",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%85%E6%A8%A1%E5%A5%B3%E7%90%83%E8%BF%B7%E7%88%86%E7%81%AB%E5%90%8E%E5%87%BA%E9%95%9C+%E8%87%AA%E8%AF%81%E4%B8%8D%E6%98%AFAI",
-          "source": "百度热搜",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
