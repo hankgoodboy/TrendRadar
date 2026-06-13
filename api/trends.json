@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-13T08:22:22.004156+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-06-13T13:23:11.108399+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普扮忍者AI视频引日本不满",
+          "url": "https://www.toutiao.com/trending/7649725897653714990/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
         {
           "title": "美国商务部长卢特尼克发函给Anthropic的CEO，阻止外国接触其先进AI（模型）。 卢特尼克认为，近日发布的Mythos 5、Fable 5都受到出口管制的限制。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3119106",
@@ -14,18 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3119103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
@@ -42,17 +42,6 @@
           "time_info": "[01时39分 ~ 06时27分]"
         },
         {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
           "title": "抖音AI反网暴行动来了",
           "url": "https://www.douyin.com/hot/2531858",
           "source": "抖音",
@@ -64,6 +53,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 08时22分]"
+        },
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 13时23分]"
+        },
+        {
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时22分 ~ 13时23分]"
         },
         {
           "title": "猛男舞团翻跳Dai Dai",
@@ -81,11 +94,45 @@
           "url": "https://wallstreetcn.com/articles/3774502",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时22分 ~ 13时23分]"
+        },
+        {
+          "title": "九鹭非香把七时吉祥重新做成AI剧了",
+          "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E9%B9%AD%E9%9D%9E%E9%A6%99%E6%8A%8A%E4%B8%83%E6%97%B6%E5%90%89%E7%A5%A5%E9%87%8D%E6%96%B0%E5%81%9A%E6%88%90AI%E5%89%A7%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850550&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/3SNELjbbk6Cqk3c21IZ34.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260613120108121800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时22分"
+          "time_info": "13时23分"
+        },
+        {
+          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "全抖音都在DaiDai",
@@ -94,7 +141,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
         },
