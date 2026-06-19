@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T09:44:52.898134+08:00",
-  "total_titles_processed": 697,
+  "generated_at": "2026-06-19T15:10:09.072548+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -17,6 +17,42 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 09时44分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 15时10分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 15时10分]"
+        },
+        {
+          "title": "知名作家承认新书AI写作比重占一半",
+          "url": "https://www.baidu.com/s?wd=%E7%9F%A5%E5%90%8D%E4%BD%9C%E5%AE%B6%E6%89%BF%E8%AE%A4%E6%96%B0%E4%B9%A6AI%E5%86%99%E4%BD%9C%E6%AF%94%E9%87%8D%E5%8D%A0%E4%B8%80%E5%8D%8A",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
@@ -47,7 +83,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -77,28 +113,28 @@
           "time_info": "[00时38分 ~ 09时44分]"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 15时10分]"
         },
         {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 09时44分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 15时10分]"
         },
         {
           "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
@@ -139,26 +175,26 @@
           "time_info": "[03时43分 ~ 09时44分]"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
-          "source": "华尔街见闻",
+          "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
-          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
-          "url": "https://wallstreetcn.com/articles/3775011",
-          "source": "华尔街见闻",
+          "title": "为什么 AI 永远无法像一个长辈那样给你忠告，反而可能悄悄把你推向极端？",
+          "url": "https://www.zhihu.com/question/2047442845498398435",
+          "source": "知乎",
           "ranks": [
-            8
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "美国采取行动，加快AI数据中心接入电网",
