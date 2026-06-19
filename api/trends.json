@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T02:58:16.206163+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-06-20T04:41:19.647882+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 04时41分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时57分 ~ 02时58分]"
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时41分]"
         },
         {
           "title": "挪威首相周五表示，挪威将近乎全面禁止小学生使用生成式人工智能工具，同时限制其在年龄较大的儿童教育中的使用，以防止对学习产生负面影响。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     }
