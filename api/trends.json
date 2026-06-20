@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T19:58:31.523574+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-06-20T22:21:40.150793+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "AI写作涌入市场，“人”的信任和感动何处安放？",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时07分 ~ 08时12分]"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 22时21分]"
         },
         {
           "title": "第一次见心眼这么多的AI",
@@ -46,16 +58,15 @@
           "time_info": "[04时41分 ~ 17时20分]"
         },
         {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
+          "title": "AI短剧“买脸” 每张脸500元一年",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E2%80%9C%E4%B9%B0%E8%84%B8%E2%80%9D+%E6%AF%8F%E5%BC%A0%E8%84%B8500%E5%85%83%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            1
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 19时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "据知情人士透露，阿布扎比支持的AI投资者MGX一直在探索收购新加坡数据中心运营商DayOne的可行性，预计潜在交易金额（至少）数十亿美元。（路透）",
@@ -119,6 +130,18 @@
           "time_info": "[17时20分 ~ 19时58分]"
         },
         {
+          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
+          "url": "https://wallstreetcn.com/articles/3775111",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 22时21分]"
+        },
+        {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
           "url": "https://wallstreetcn.com/articles/3775053",
           "source": "华尔街见闻",
@@ -141,16 +164,26 @@
           "time_info": "[08时11分 ~ 08时12分]"
         },
         {
-          "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
-          "url": "https://wallstreetcn.com/articles/3775111",
+          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
+          "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时20分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 22时21分]"
+        },
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 22时21分]"
         },
         {
           "title": "导演於水直言 AI 是无所不能的大模型，每个人是不完美的小模型，不完美才能产生艺术，你认可这种说法吗？",
@@ -208,26 +241,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
-          "url": "https://wallstreetcn.com/articles/3775113",
-          "source": "华尔街见闻",
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
-          "url": "https://wallstreetcn.com/articles/3775105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "22时21分"
         },
         {
           "title": "挪威将禁止小学生使用生成式人工智能",
@@ -258,7 +280,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -291,7 +313,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         }
