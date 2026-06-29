@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T04:02:19.594349+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-30T06:10:01.631005+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
         },
         {
           "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
         },
         {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
         },
         {
           "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
@@ -50,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
         },
         {
           "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
         },
         {
           "title": "AI手机进入Agent时代",
@@ -74,8 +74,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
         },
         {
           "title": "吴启华自曝卖肖像权拍AI电影",
@@ -83,11 +83,34 @@
           "source": "抖音",
           "ranks": [
             30,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 04时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时40分 ~ 06时10分]"
+        },
+        {
+          "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
+          "url": "https://flash.jin10.com/detail/20260630055543411800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "市场消息：英国政府将推出国防投资计划，拟在未来四年投入约50亿英镑发展无人机，并加速人工智能与自主系统在军队中的应用，以提升应对现代战争能力。",
+          "url": "https://flash.jin10.com/detail/20260630054142027800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     }
