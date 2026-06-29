@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T17:29:28.373389+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-06-29T22:07:16.346232+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -94,7 +94,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -117,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
@@ -131,6 +131,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时07分]"
+        },
+        {
+          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
+          "url": "https://www.cls.cn/detail/2412070",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -170,15 +195,37 @@
           "time_info": "[12时09分 ~ 17时29分]"
         },
         {
-          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2411748",
-          "source": "财联社热门",
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
+        },
+        {
+          "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
+          "url": "https://www.cls.cn/detail/2411644",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 22时07分]"
         },
         {
           "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
@@ -187,7 +234,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
