@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T08:07:01.003272+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-06-30T13:06:37.940970+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
@@ -71,6 +71,17 @@
           "time_info": "[01时40分 ~ 08时07分]"
         },
         {
+          "title": "日本经济产业省将向新的AI企业提供3873亿日元支持。（日本共同社）",
+          "url": "https://wallstreetcn.com/livenews/3126483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
+        {
           "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
           "source": "澎湃新闻",
@@ -99,22 +110,24 @@
           "url": "https://wallstreetcn.com/articles/3775756",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时06分]"
         },
         {
           "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
           "url": "https://www.cls.cn/detail/2412167",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时06分 ~ 08时07分]"
+          "appearance_count": 3,
+          "time_info": "[08时06分 ~ 13时06分]"
         },
         {
           "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
@@ -126,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
         },
         {
           "title": "市场消息：英国政府将推出国防投资计划，拟在未来四年投入约50亿英镑发展无人机，并加速人工智能与自主系统在军队中的应用，以提升应对现代战争能力。",
