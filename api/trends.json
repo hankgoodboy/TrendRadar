@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T01:58:42.276005+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-01T04:08:09.933715+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时08分]"
         },
         {
           "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时58分"
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时08分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
