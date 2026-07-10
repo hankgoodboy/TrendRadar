@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T02:27:18.585554+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-07-11T04:25:38.947075+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时25分]"
         },
         {
           "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
@@ -34,22 +34,24 @@
           "url": "https://wallstreetcn.com/articles/3776629",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时25分]"
         },
         {
           "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
           "url": "https://wallstreetcn.com/articles/3776651",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时25分]"
         },
         {
           "title": "【每日收评】创业板指放量跌超4%，半导体、AI硬件股集体调整，创新药板块逆势活跃",
@@ -59,8 +61,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 02时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 04时25分]"
         },
         {
           "title": "美国放宽对阿联酋的出口限制，为AI芯片销售打开大门",
@@ -80,7 +82,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         }
