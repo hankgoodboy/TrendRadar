@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T06:52:42.432548+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-07-12T07:58:22.990582+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时58分]"
         },
         {
           "title": "算力、模型、数据三箭齐发 吓坏市场的Meta要剑指AI“第三极”？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时58分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -50,11 +50,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时58分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -64,8 +65,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[00时00分 ~ 07时58分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
@@ -77,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时52分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时58分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
@@ -90,8 +91,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时52分 ~ 06时52分]"
+          "appearance_count": 4,
+          "time_info": "[04时52分 ~ 07时58分]"
         },
         {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
