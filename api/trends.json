@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:01:43.866137+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-07-18T08:02:03.282989+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,19 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
-        },
-        {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -48,8 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -57,23 +58,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
             6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -87,8 +77,34 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -99,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "中国拉群搞AI,28国兄弟入伙",
@@ -110,28 +126,16 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://wallstreetcn.com/articles/3777174",
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -148,8 +152,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -160,8 +164,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -172,8 +176,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时15分 ~ 07时01分]"
+          "appearance_count": 9,
+          "time_info": "[01时15分 ~ 08时02分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -228,11 +232,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时02分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -240,11 +245,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时02分]"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -252,11 +258,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时02分]"
         },
         {
           "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
@@ -264,11 +271,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时02分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -280,6 +288,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时14分]"
+        },
+        {
+          "title": "AI能终结癌症吗",
+          "url": "https://www.baidu.com/s?wd=AI%E8%83%BD%E7%BB%88%E7%BB%93%E7%99%8C%E7%97%87%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "“一片惨绿”席卷新兴市场股市，AI担忧重创全球市场",
