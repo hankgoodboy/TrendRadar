@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T19:48:43.908574+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-07-21T21:57:42.236882+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "超节点、超集群、TPU方案涌现 算力“拼系统”时代产业最关心Token性价比|WAIC观察",
@@ -30,11 +30,12 @@
             17,
             20,
             26,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时07分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[02时07分 ~ 21时57分]"
         },
         {
           "title": "王祖贤肖像授权网易AI",
@@ -87,6 +88,20 @@
           "time_info": "[11时32分 ~ 14时32分]"
         },
         {
+          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 21时57分]"
+        },
+        {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
@@ -94,24 +109,12 @@
             5,
             8,
             17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时33分 ~ 19时48分]"
-        },
-        {
-          "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            13
+            20,
+            21
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时32分 ~ 19时48分]"
+          "time_info": "[11时33分 ~ 21时57分]"
         },
         {
           "title": "OpenAI高管炮轰Kimi",
@@ -187,6 +190,17 @@
           "time_info": "[02时07分 ~ 06时02分]"
         },
         {
+          "title": "世界人工智能大会达成丰硕成果",
+          "url": "https://www.toutiao.com/trending/7664544012321426987/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "WAIC预计达成超200亿元意向采购金额",
           "url": "https://s.weibo.com/weibo?q=%23WAIC%E9%A2%84%E8%AE%A1%E8%BE%BE%E6%88%90%E8%B6%85200%E4%BA%BF%E5%85%83%E6%84%8F%E5%90%91%E9%87%87%E8%B4%AD%E9%87%91%E9%A2%9D%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -211,6 +225,17 @@
           "time_info": "[02时07分 ~ 07时58分]"
         },
         {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "AI前沿日报-7月21日",
           "url": "https://flash.jin10.com/detail/20260721141955695800",
           "source": "金十数据",
@@ -220,6 +245,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
+          "url": "https://wallstreetcn.com/articles/3777491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 21时57分]"
         },
         {
           "title": "AI 的「最后一公里」，还要走多久？",
@@ -255,18 +292,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时07分 ~ 07时58分]"
-        },
-        {
-          "title": "AI动量交易面临挑战，高盛：对冲基金过去两个月创纪录抛售美国科技股",
-          "url": "https://wallstreetcn.com/articles/3777491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时29分]"
         },
         {
           "title": "“七巨头”时代终结？分析师：这一概念已不再适用 AI投资逻辑正在重构",
@@ -371,13 +396,24 @@
           "time_info": "06时02分"
         },
         {
+          "title": "网友发现很多 KTV 都没有 MV 了，全是奇怪的 AI 画面，为什么会这样？你有遇到这种情况吗？",
+          "url": "https://www.zhihu.com/question/2061915732447687216",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "美团客服辟谣“骑手配送费本科8元、硕士15元、博士88元”：网传截图不属实，系AI生成",
           "url": "https://wallstreetcn.com/livenews/3137545",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -404,6 +440,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "业绩炸裂！AI光芯片龙头上半年净利预增近1200% | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260721211323957800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "智谱股价一度涨19%，落地1GW级算力数据中心建设，全部采用国产AI芯片",
           "url": "https://wallstreetcn.com/livenews/3137250",
           "source": "华尔街见闻-快讯",
@@ -413,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
+        },
+        {
+          "title": "微软与Mistral扩大AI合作，签署数十亿美元欧洲AI基础设施协议",
+          "url": "https://wallstreetcn.com/livenews/3137592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "嘉实基金王贵重：AI产业链仍然存在持续的投资机会",
@@ -443,7 +501,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
