@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:22:04.449508+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-07-26T21:27:15.031689+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -29,11 +29,12 @@
             15,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 21时27分]"
         },
         {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
@@ -60,6 +61,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 10时57分]"
+        },
+        {
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时27分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -112,6 +125,17 @@
           "time_info": "[01时01分 ~ 01时02分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时10分 ~ 21时27分]"
+        },
+        {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
           "url": "https://m.thepaper.cn/newsDetail_forward_33656792",
           "source": "澎湃新闻",
@@ -147,6 +171,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 21时27分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -198,15 +235,40 @@
           "time_info": "[05时59分 ~ 07时03分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063587044526404438",
+          "source": "知乎",
           "ranks": [
-            13
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时10分 ~ 19时22分]"
+          "time_info": "[19时21分 ~ 21时27分]"
+        },
+        {
+          "title": "美国发生AI失控事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时27分]"
+        },
+        {
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
+          "ranks": [
+            22,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时21分 ~ 21时27分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -218,17 +280,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 05时59分]"
-        },
-        {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时22分]"
         },
         {
           "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
@@ -256,18 +307,6 @@
           "time_info": "[05时59分 ~ 14时10分]"
         },
         {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时22分]"
-        },
-        {
           "title": "观众为何不能容忍长剧片头用AI",
           "url": "https://www.toutiao.com/trending/7666471179586650166/",
           "source": "今日头条",
@@ -277,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
+          "title": "不要长期向AI倾泻心事",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E9%95%BF%E6%9C%9F%E5%90%91AI%E5%80%BE%E6%B3%BB%E5%BF%83%E4%BA%8B&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -291,17 +341,6 @@
           "time_info": "[10时57分 ~ 14时10分]"
         },
         {
-          "title": "如何看待谷歌豪赌 AI ，自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063587044526404438",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
-        },
-        {
           "title": "中国AI步步紧逼，美国科技巨头先内讧了",
           "url": "https://news.ifeng.com/c/8v4ERxkHrbt",
           "source": "凤凰网",
@@ -313,26 +352,26 @@
           "time_info": "[14时10分 ~ 17时15分]"
         },
         {
-          "title": "美国发生AI失控事故",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "周鸿祎：AI竞争规则正发生巨变",
+          "url": "https://www.toutiao.com/trending/7666792197408165395/",
+          "source": "今日头条",
           "ranks": [
-            19
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
+          "title": "AI大模型未来究竟能达到什么高度",
+          "url": "https://www.toutiao.com/trending/7666790720404983342/",
+          "source": "今日头条",
           "ranks": [
-            22
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时21分 ~ 19时22分]"
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
           "title": "中国AI芯片国产替代率五年从10%升至40%",
@@ -454,6 +493,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "严浩翔对AI写rap词的反应",
