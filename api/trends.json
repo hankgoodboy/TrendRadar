@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-05T06:15:10.217459+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-08-05T08:05:48.179613+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 08时05分]"
+        },
         {
           "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
           "url": "https://www.cls.cn/detail/2445244",
@@ -17,8 +30,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 08时05分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -28,8 +41,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 08时05分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 08时05分]"
         },
         {
           "title": "SpaceX资本开支不及预期，在AI领域亏损超预期",
@@ -43,18 +67,6 @@
           "time_info": "04时28分"
         },
         {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时15分]"
-        },
-        {
           "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
           "source": "澎湃新闻",
@@ -66,26 +78,15 @@
           "time_info": "[00时53分 ~ 06时15分]"
         },
         {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
+          "title": "SpaceX将独家采用英伟达AI计算架构，拟部署太空数据中心",
+          "url": "https://flash.jin10.com/detail/20260805072402482800",
+          "source": "金十数据",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时15分]"
-        },
-        {
-          "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
-          "url": "https://wallstreetcn.com/livenews/3144979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时15分"
+          "time_info": "08时05分"
         },
         {
           "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
@@ -93,11 +94,24 @@
           "source": "知乎",
           "ranks": [
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 06时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 08时05分]"
+        },
+        {
+          "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
+          "url": "https://wallstreetcn.com/livenews/3144979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 08时05分]"
         },
         {
           "title": "如何看待网友用 AI 生成小米车祸视频被行政处罚？ AI 让造谣成本变低，有什么办法能管控吗？",
@@ -133,6 +147,28 @@
           "time_info": "04时28分"
         },
         {
+          "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778691",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
+          "url": "https://flash.jin10.com/detail/20260805070003293800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "SpaceX(SPCX.O)：SpaceX正与英伟达(NVDA.O)合作设计Starmind AI1卫星计算载荷。每颗Starmind卫星将搭载英伟达Rubin GPU和Vera CPU，用于提供数据中心级别的太空计算能力。",
           "url": "https://flash.jin10.com/detail/20260805033433216800",
           "source": "金十数据",
@@ -142,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "澳大利亚7月AIG建筑业表现指数 -40.6，前值-38.1。",
+          "url": "https://flash.jin10.com/detail/20260805070003280800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "SpaceX宣布：与英伟达合作开发“星智AI1”卫星计算载荷，配置Rubin GPU和Vera CPU",
@@ -161,7 +208,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -194,7 +241,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -216,7 +263,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -238,7 +285,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -260,7 +307,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -271,7 +318,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -293,7 +340,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
