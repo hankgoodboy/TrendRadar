@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T03:32:46.970297+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-08-09T04:32:36.804725+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
@@ -66,8 +66,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -78,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -87,22 +87,24 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时36分 ~ 04时32分]"
         },
         {
           "title": "当AI反过来问你问题",
           "url": "https://www.douyin.com/hot/2600930",
           "source": "抖音",
           "ranks": [
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 03时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时33分 ~ 04时32分]"
         },
         {
           "title": "苹果AI 千问",
