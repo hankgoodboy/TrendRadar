@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T19:31:45.964782+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-08-08T20:52:37.909231+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -55,6 +55,20 @@
           "time_info": "[01时00分 ~ 13时50分]"
         },
         {
+          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 20时52分]"
+        },
+        {
           "title": "大厂“集中兵力”抢入口 AI办公赛道突然“挤”了起来",
           "url": "https://www.cls.cn/detail/2448766",
           "source": "财联社热门",
@@ -66,8 +80,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时00分 ~ 19时31分]"
+          "appearance_count": 21,
+          "time_info": "[01时00分 ~ 20时52分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -89,24 +103,25 @@
             15,
             14,
             16,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[03时56分 ~ 19时31分]"
+          "appearance_count": 17,
+          "time_info": "[03时56分 ~ 20时52分]"
         },
         {
-          "title": "李开复：AI时代，人的优势在“右脑”，做出数据不能预测的事情",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33740664",
-          "source": "澎湃新闻",
+          "title": "爆仓之后，资本反而扑向\"AI股神\"",
+          "url": "https://wallstreetcn.com/articles/3778984",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
             9,
-            8
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[14时56分 ~ 20时52分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -120,19 +135,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时00分 ~ 06时38分]"
-        },
-        {
-          "title": "爆仓之后，资本反而扑向\"AI股神\"",
-          "url": "https://wallstreetcn.com/articles/3778984",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时56分 ~ 19时31分]"
         },
         {
           "title": "四大会计事务所的研究报告集体陷入「AI 幻觉」，对咨询行业的公信力会造成怎样的冲击？暴露了什么问题？",
@@ -203,6 +205,29 @@
           "time_info": "01时01分"
         },
         {
+          "title": "AI快问快答,D老师语出惊人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时36分 ~ 20时52分]"
+        },
+        {
+          "title": "苹果与阿里巴巴合作，千问AI功能上线Mac",
+          "url": "https://flash.jin10.com/detail/20260808204416510800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
           "url": "https://flash.jin10.com/detail/20260808005548495800",
           "source": "金十数据",
@@ -215,18 +240,6 @@
           "time_info": "[01时01分 ~ 01时56分]"
         },
         {
-          "title": "AI快问快答,D老师语出惊人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356965&amp;topic_name=AI%E5%BF%AB%E9%97%AE%E5%BF%AB%E7%AD%94%2CD%E8%80%81%E5%B8%88%E8%AF%AD%E5%87%BA%E6%83%8A%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时36分 ~ 19时31分]"
-        },
-        {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
           "url": "https://www.zhihu.com/question/2042649810709239000",
           "source": "知乎",
@@ -235,8 +248,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时52分]"
         },
         {
           "title": "戚薇谈把脸交给AI",
@@ -388,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "苹果AI 千问",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CAI%20%E5%8D%83%E9%97%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "OpenAI：Astra是一款即将推出的模型，并未参与利用Hugging Face漏洞的事件。正在暂停涉及Astra、但尚未达到强化安全控制要求的内部活动。",
