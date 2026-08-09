@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T13:07:49.796349+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-08-09T15:01:25.365502+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 15时01分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -74,8 +74,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 13时07分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 15时01分]"
         },
         {
           "title": "马上评｜AI演员带货，真人演员授权：AI时代如何重构信任关系",
@@ -90,8 +90,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 13时07分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 15时01分]"
         },
         {
           "title": "当AI反过来问你问题",
@@ -129,11 +129,12 @@
           "url": "https://wallstreetcn.com/articles/3778996",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 13时07分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 15时01分]"
         },
         {
           "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
@@ -153,11 +154,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 13时07分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 15时01分]"
+        },
+        {
+          "title": "AI推理前瞻——从基础设施建设到商业化变现",
+          "url": "https://wallstreetcn.com/articles/3778997",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 15时01分]"
+        },
+        {
+          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
+          "url": "https://wallstreetcn.com/articles/3779002",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 15时01分]"
         },
         {
           "title": "AI帮你开发以前要花钱的功能",
@@ -227,17 +252,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "AI推理前瞻——从基础设施建设到商业化变现",
-          "url": "https://wallstreetcn.com/articles/3778997",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
           "title": "AI是否能帮助数学实现大突破",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%98%AF%E5%90%A6%E8%83%BD%E5%B8%AE%E5%8A%A9%E6%95%B0%E5%AD%A6%E5%AE%9E%E7%8E%B0%E5%A4%A7%E7%AA%81%E7%A0%B4",
           "source": "bilibili 热搜",
@@ -247,17 +261,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
-        },
-        {
-          "title": "拯救悲剧股神后又当新娘！Anthropic幕僚长自述：在AI前沿寻找上帝",
-          "url": "https://wallstreetcn.com/articles/3779002",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时07分"
         },
         {
           "title": "苹果AI国行版上线官网",
@@ -288,7 +291,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
         },
