@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T21:10:35.722789+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-08-11T23:02:02.919734+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 第一步：先用宽泛关键词测试 人工智能 AI ChatGPT",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -44,8 +44,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 21时10分]"
+          "appearance_count": 13,
+          "time_info": "[09时52分 ~ 23时02分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 23时02分]"
+        },
+        {
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
+          "ranks": [
+            6,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 23时02分]"
         },
         {
           "title": "城市竞争进入AI答案时代",
@@ -55,11 +81,26 @@
             11,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时52分 ~ 21时10分]"
+          "appearance_count": 13,
+          "time_info": "[09时52分 ~ 23时02分]"
+        },
+        {
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 23时02分]"
         },
         {
           "title": "用AI重返那年相遇的青涩夏天",
@@ -94,16 +135,34 @@
           "time_info": "[00时07分 ~ 15时12分]"
         },
         {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
+          "title": "怎么看AI突破黎曼猜想下界",
+          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            5
+            1,
+            18,
+            10,
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 21时10分]"
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 23时02分]"
+        },
+        {
+          "title": "干湿之困：AI制药如何打通“最后一公里”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            16,
+            15,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 23时02分]"
         },
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -119,17 +178,18 @@
           "time_info": "[00时07分 ~ 07时38分]"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
-          "source": "抖音",
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            9,
-            8
+            11,
+            8,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时11分 ~ 21时10分]"
+          "time_info": "[17时01分 ~ 23时02分]"
         },
         {
           "title": "黄仁勋深度解读5000亿美元融资计划：AI算力是“投资级资产”",
@@ -158,47 +218,6 @@
           "time_info": "[00时07分 ~ 07时38分]"
         },
         {
-          "title": "怎么看AI突破黎曼猜想下界",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BAI%E7%AA%81%E7%A0%B4%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%8B%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            18,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时11分 ~ 19时46分]"
-        },
-        {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 21时10分]"
-        },
-        {
-          "title": "干湿之困：AI制药如何打通“最后一公里”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            16,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 21时10分]"
-        },
-        {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
           "url": "https://flash.jin10.com/detail/20260811041811135800",
           "source": "金十数据",
@@ -223,6 +242,18 @@
           "time_info": "[11时47分 ~ 15时12分]"
         },
         {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时10分 ~ 23时02分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
           "url": "https://flash.jin10.com/detail/20260811040810116800",
           "source": "金十数据",
@@ -234,17 +265,15 @@
           "time_info": "04时52分"
         },
         {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
+          "title": "巴基斯坦称美伊“接近达成某种安排”，SK海力士在华扩产，工业富联AI算力利润翻倍 | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260811222213183800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时01分 ~ 21时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "孙女用AI把奶奶P进《西游记》",
@@ -282,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 06时40分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
         },
         {
           "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
@@ -382,17 +422,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
-        },
-        {
-          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
-          "url": "https://www.cls.cn/detail/2451347",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时10分"
         },
         {
           "title": "巴克莱仍偏好美国成长股和大型股 因AI支出支撑业绩",
@@ -533,7 +562,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -648,6 +677,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "四家科技巨头CapEx已达美国国防预算87%，AI进入“国家级”投资周期？",
+          "url": "https://flash.jin10.com/detail/20260811220512628800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "【上海：支持软件企业广泛使用Coding平台】上海市经济和信息化委员会印发《上海市软件和信息服务业发展“十五五”规划》。其中提到，推动软件产品AI化发展，加快工业制图、工程设计和生产排产等高价值场景的智能化升级，强化软件产品的智能感知、分析、决策与执行能力。促进软件企业智能化技改，支持软件企业广泛使用Coding平台，构建覆盖全流程、全链条的智能化研发生产线，探索将词元（Token）、数据治理、大模型部署及再训练等投入，纳入企业技术改造支持方向。",
           "url": "https://wallstreetcn.com/livenews/3147978",
           "source": "华尔街见闻-快讯",
@@ -698,7 +738,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
