@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T03:15:03.322477+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-14T04:46:19.741909+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时46分]"
         },
         {
           "title": "苹果在休斯顿开设先进制造中心，宣布将在今年开始在休斯顿生产Mac Mini。 苹果在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时46分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时46分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -59,11 +59,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时46分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -71,11 +72,12 @@
           "source": "抖音",
           "ranks": [
             25,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时46分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -86,8 +88,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时05分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时05分 ~ 04时46分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -97,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时46分]"
         },
         {
           "title": "苹果(AAPL.O)在休斯顿投资数亿美元，首批先进AI服务器已发货。",
@@ -107,7 +109,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -140,7 +142,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -151,7 +153,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
